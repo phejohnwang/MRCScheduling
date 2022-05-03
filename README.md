@@ -1,2 +1,2 @@
 # MRCScheduling
-Sccheduling Environment for Multi-Robot Coordination Problems
+Scheduling Environment for Multi-Robot Coordination Problems
